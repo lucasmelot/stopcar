@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# PERSONALIZAR: adicione Sitemap: https://seu-dominio.com.br/sitemap.xml após definir o domínio oficial.
